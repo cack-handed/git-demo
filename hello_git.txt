@@ -8,3 +8,4 @@ maskter-insert
 hot-fix-insert [web_alter]
 [first conflict merge,both save]
 [web_insert]
+???IDEA-insert
